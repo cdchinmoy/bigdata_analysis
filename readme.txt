@@ -7,8 +7,11 @@ The task is :
 
 
 Required python module:
-pandas
-Requests
+numpy==1.23.1
+pandas==1.4.3
+python-dateutil==2.8.2
+pytz==2022.1
+six==1.16.0
 
-How to run
+How to run:
 Install required module and run "python app.py" in the command line.
